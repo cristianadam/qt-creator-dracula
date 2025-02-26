@@ -28,6 +28,7 @@
   <style name="PrimitiveType" foreground="#7ce4fb" italic="true"/>
   <style name="Operator" foreground="#ffffff"/>
   <style name="Overloaded Operator" foreground="#ffb86c"/>
+  <style name="Attribute" foreground="#50fa7b" italic="true"/>
   <style name="Punctuation"/>
   <style name="Preprocessor" foreground="#ff79c6"/>
   <style name="Label" foreground="#ffb86c"/>
@@ -62,8 +63,13 @@
   <style name="WarningContext" underlineColor="#ffb86c" underlineStyle="DotLine"/>
   <style name="Error" underlineColor="#ff5555" underlineStyle="SingleUnderline"/>
   <style name="ErrorContext" underlineColor="#ff5555" underlineStyle="DotLine"/>
+  <style name="LogCommitHash" foreground="#ff0000"/>
+  <style name="LogCommitSubject" foreground="#d6cf9a"/>
+  <style name="LogDecoration" foreground="#ff00ff"/>
+  <style name="Warning" underlineColor="#d6c545" underlineStyle="SingleUnderline"/>
+  <style name="WarningContext" underlineColor="#d6c545" underlineStyle="DotLine"/>
+  <style name="Error" underlineColor="#d65645" underlineStyle="SingleUnderline"/>
+  <style name="ErrorContext" underlineColor="#d65645" underlineStyle="DotLine"/>
   <style name="Declaration" bold="true"/>
-  <style name="FunctionDefinition"/>
   <style name="OutputArgument" italic="true"/>
-  <style name="StaticMember" foreground="#ffb86c"/>
 </style-scheme>
