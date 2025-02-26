@@ -1,8 +1,8 @@
-# Dracula for [Qt Creator](http://qt.io/ide)
+# Dracula for [Qt Creator](https://www.qt.io/product/development-tools)
 
-> A dark theme for [Qt Creator](http://qt.io/ide).
+> A dark theme for [Qt Creator](https://www.qt.io/product/development-tools).
 
-![Screenshot](./screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/cristianadam/qt-creator-dracula/refs/heads/master/screenshot.png)
 
 ## Install
 
